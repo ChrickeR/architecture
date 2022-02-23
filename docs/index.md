@@ -1,2 +1,2 @@
 # Här växer ett öppet ramverk och forum fram för att stödja digital transformation :) ...
-<img src="pic/maintenance.png" alt="Under construction" style="height: 800px; width:800px;"/>
+<img src="/pic/maintenance.png" alt="Under construction" style="height: 800px; width:800px;"/>
