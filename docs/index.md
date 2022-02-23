@@ -1,2 +1,2 @@
 # Här växer ett öppet ramverk och forum fram för att stödja digital transformation...
-[Under construction]("/pics/maintanace.png)
+[Under construction]("/pic/maintanace.png)
